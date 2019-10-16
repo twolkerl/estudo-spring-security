@@ -3,12 +3,12 @@
 Projeto de estudos com Spring Security. Utilizado como base o guia do Spring.
 `GETTING STARTED - Securing a Web Application` : <https://spring.io/guides/gs/securing-web/>
 
-###Requisitos
+## Requisitos
 
 - JDK 1.8 ou mais recente
 - Gradle 4+ ou Maven 3.2+ (Neste projeto foi utilizado Maven)
 
-###Rodando a aplicação
+## Rodando a aplicação
 
 Através do Maven:
 
@@ -22,7 +22,7 @@ em seguida no terminal:
 
 `java -jar target/demo1-0.0.1-SNAPSHOT.jar`
 
-###Usuário e senha
+## Usuário e senha
 
 Para autenticar-se na aplicação é necessário utilizar as seguintes credenciais:
 
